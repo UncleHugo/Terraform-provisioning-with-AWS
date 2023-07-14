@@ -13,5 +13,10 @@ VS code was used which required the installation of AWS Toolkits and the Terrafo
 ![connection](<aws terraform connection and resource.jpeg>)
 
 ## The Terraform provider
+To use Terraform to manage and deploy resources and infrastructure to AWS, you will need to use the AWS provider. You must configure the provider with the proper credentials before you can use it. More reading https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+To install the AWS provider, the configuration below was used (usually in your provider.tf file):
+![Alt text](provider.png) 
+
 
 
