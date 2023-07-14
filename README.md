@@ -1,2 +1,0 @@
-# Terraform-provisioning-with-AWS
-
