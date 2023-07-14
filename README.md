@@ -12,6 +12,6 @@ VS code was used which required the installation of AWS Toolkits and the Terrafo
 
 ![connection](<aws terraform connection and resource.jpeg>)
 
-## The Terraform init
+## The Terraform provider
 
 
