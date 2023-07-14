@@ -5,11 +5,12 @@ It is an open-source infrastructure provisioning tool where you can store your c
 
 
 This project involves creating a simple dev environment with AWS and Terrafrom, below is an architectural diagram displaying the AWS resource.
-![dev environment](image.png)
+![Alt text](<architectural diagram.png>)
 
 An IAM user was already created with an administration access granted to the user (default).
 VS code was used which required the installation of AWS Toolkits and the Terraform extension; AWS connection was then created with the Access key ID and Secret access key generated from the management console, which generated the aws resources in the US East 1 (N. Virginia) region.
-![aws connection](<aws terraform connection.jpeg>)
+
+![connection](<aws terraform connection and resource.jpeg>)
 
 ## The Terraform init
 
